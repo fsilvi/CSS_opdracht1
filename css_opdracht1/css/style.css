@@ -1,0 +1,20 @@
+body  {
+    color : palevioletred;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    line-height: 1.6em;
+    background-color:beige;
+    border-style: solid;
+    border-width: 8px;
+}
+
+a:link  {
+    color: rebeccapurple;
+}
+
+h1 {
+    color: pink;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
