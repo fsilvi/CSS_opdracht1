@@ -1,0 +1,13 @@
+body  {
+    color : palevioletred;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times,serif;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.6em;
+    background-color:beige;
+    border-style: solid;
+    border-width: 8px;
+    padding: 10%;
+    margin: 10px 10px;
+}
